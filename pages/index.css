@@ -1,4 +1,17 @@
-.page {
+@import url(../vendor/normalize.css);
+@import url(../blocks/page.css/page.css);
+@import url(../blocks/logo.css/logo.css);
+@import url(../blocks/header.css/header.css);
+@import url(../blocks/nav.css/nav.css);
+@import url(../blocks/recipes.css/recipes.css);
+@import url(../blocks/reservation.css/reservation.css);
+@import url(../blocks/form.css/form.css);
+@import url(../blocks/menu.css/menu.css);
+@import url(../blocks/card.css/card.css);
+@import url(../blocks/about.css/about.css);
+@import url(../blocks/footer.css/footer.css);
+
+/* .page {
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
@@ -6,7 +19,6 @@
   font-size: 16px;
   line-height: 20px;
 }
-
 .header {
   background-color: #ffffff;
   background-image: url(../images/background_header.svg);
@@ -23,7 +35,7 @@
   height: 142px;
   width: 125px;
   padding-top: 30px;
-  padding-left: 30px;
+  padding-left: 30px;"C:\Users\Nilesh Naik\projects\se_project_coffeeshop\pages\index.css""C:\Users\Nilesh Naik\projects\se_project_coffeeshop\pages\index.css"
 }
 
 .nav__links {
@@ -311,4 +323,81 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+} */
+/* .menu {
+  background-color: #fff;
+  background-image: url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
+.menu__title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  padding-top: 100px;
+  max-width: 780px;
+  margin: 0px;
+  justify-content: center;
+  display: flex;
+}
+.menu__subtitle {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 24px;
+  max-width: 780px;
+  justify-content: center;
+  display: flex;
+}
+.menu__cards {
+  margin-top: 100px;
+  padding-bottom: 100px;
+  justify-content: center;
+  display: flex;
+}
+
+.card {
+  margin-right: 100px;
+  margin-bottom: 100px;
+  justify-content: center;
+  display: flex;
+  width: 540px;
+}
+
+.card__title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  display: flex;
+  margin: 0px;
+}
+.card__list-item {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 16px;
+  margin-top: 32px;
+  list-style-type: none;
+}
+.card__list-divider {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 32px;
+  margin-bottom: 16px;
+}
+.card__list {
+  padding: 0;
+  margin: 0;
+} */
