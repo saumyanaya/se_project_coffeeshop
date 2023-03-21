@@ -17,12 +17,14 @@
   justify-content: flex-end;
   list-style-type: none;
   width: 100%;
+  padding: 0;
 }
 
 .nav__link {
+  color: #000000;
   text-decoration: none;
-  transition: #2f80ed 1s linear;
+  transition: color 1s linear;
 }
 .nav__link:hover {
-  color: #000;
+  color: #2f80ed;
 }
