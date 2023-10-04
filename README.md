@@ -13,5 +13,5 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Will read and practise more on BEM methodology, improve my efficiency working on similar projects.
 
