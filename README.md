@@ -10,6 +10,7 @@ This is the second project of the Web Development program at Practicum. It was c
 - Flat BEM
 - A custom form
 - CSS animation and transform
+## Link- https://saumyanaya.github.io/se_project_coffeeshop/
 
 ## Plan on improving the project
 Make It Mobile-Friendly
@@ -26,4 +27,5 @@ Add error checks to forms before they are submitted.
 Keep your CSS organized and consistent.
 7. Test Across Browsers
 Make sure the site works well on all major browsers.
+
 
